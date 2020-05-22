@@ -31,6 +31,8 @@
     "node": "10"
   },
   "dependencies": {
+    "uglify-js": "3.9.3",
+    "handlebars": "4.7.6",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
